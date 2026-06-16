@@ -1,0 +1,8 @@
+com.example.studentmanagementapp-pngs-0 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\build\generated\res\pngs\debug
+com.example.studentmanagementapp-updated_navigation_xml-1 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\build\generated\updated_navigation_xml\debug
+com.example.studentmanagementapp-packageDebugResources-2 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.studentmanagementapp-packageDebugResources-3 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.studentmanagementapp-debug-4 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.studentmanagementapp-debug-5 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\src\debug\res
+com.example.studentmanagementapp-main-6 C:\Users\sanej\OneDrive\Desktop\StudentManagementApp\app\src\main\res
+gradleHome-0 C:\Users\sanej\.gradle
